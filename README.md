@@ -7,10 +7,10 @@ securely and log in using their credentials.
 ##### Tools and Technologies Used :
 - ReactJS, React-Redux, NodeJS, ExpressJS, Socket.io, MongoDB, Mongoose
 
-##### How this project can be extended? ​
+##### How can this project be extended? ​ ​
 - 
-- We can imnplement voice recording and calling feature
-- We can implement standard encryption of messages for end to end encryption.
+- We can implement voice recording and calling feature
+- We can implement standard encryption of messages for end-to-end encryption.
 - We can add search functionality for messages
 
 ## How to Run
